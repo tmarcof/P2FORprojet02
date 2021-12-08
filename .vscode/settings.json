@@ -1,2 +1,6 @@
 {
+    "open-php-html-js-in-browser.customUrlToOpen": "http://127.0.0.1/${relativeDirnameDocumentRoot}/${fileBasename}",
+    "open-php-html-js-in-browser.documentRootFolder": "C:\\wamp\\www",
+    "open-php-html-js-in-browser.selectedBrowser": "Chrome",
+    "php.validate.enable": false
 }
