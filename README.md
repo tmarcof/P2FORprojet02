@@ -4,4 +4,4 @@
 # Modification depuis VSC
 - Modification depusi VSC
 - Version 6 depuis Visual Studio Code
-- V7 depusi Github
+- V7 depuis Github (avec correction dans VSC)
